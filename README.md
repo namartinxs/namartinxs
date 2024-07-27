@@ -9,12 +9,12 @@
 #
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre.
-Me considero uma eterna aprendiz, estou sempre buscar aprender mais e atualizar meus conhecimentos buscando novos desafios. 
+Me considero uma eterna aprendiz, estou sempre buscando aprender mais e atualizar meus conhecimentos buscando novos desafios. 
   
 
 
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/NUX-Octodex-unscreen.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -23,3 +23,15 @@ Me considero uma eterna aprendiz, estou sempre buscar aprender mais e atualizar 
 
 
 <h3 align="left">My Stack ~</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="8" />
+</div>
+
+          
+          
+          
+
+
+           
+          
