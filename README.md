@@ -11,7 +11,8 @@
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre.
 Me considero uma eterna aprendiz, estou sempre buscar aprender mais e atualizar meus conhecimentos buscando novos desafios. 
   
-#
+
+
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
