@@ -9,9 +9,9 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre.
-Me considero uma eterna aprendiz, estou sempre buscando aprender mais e atualizar meus conhecimentos buscando novos desafios. 
-  
+<p align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unisinos.
+
+🚀 Sou curiosa e gosto de entender a causa dos problemas, aprender continuamente e transformar desafios em soluções práticas.
 
 
 
